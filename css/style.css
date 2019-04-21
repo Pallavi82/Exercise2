@@ -1,0 +1,105 @@
+body{
+ 	font-family: palatino, georgia, serif;
+ 	}
+nav{
+	position: fixed;
+	background: white;
+}
+h2{
+	font-size: 30px;
+	line-height: 1em
+	float: left;
+	font-style: georgia;
+}
+a{
+	cursor: pointer;
+	color: #276056;
+	text-decoration: none;
+}
+.image img {
+	float: left;
+	margin-right: 90px;
+	width: 100px;
+	height: 90px;
+	padding: 10px;
+	position: fixed;
+	background: white;
+	
+}
+a{
+	font-style: bold;
+	font-size: 14px;
+}
+nav li{
+	display: inline;
+	float: right;
+	padding: 20px;
+	margin-left: 60px;
+	margin-right: 0px;
+}
+h2{
+	padding: 10px;
+	padding-top: 150px;
+}
+.content{
+	padding: 20px;
+	background: rgb(200,200,190);
+	margin-top: 65px;
+	padding-right: 10px;
+}
+.container_12{
+	background: white;
+
+}
+.grid_3{
+	margin-top: 100px;
+	background: yellow;
+	width: 400px;
+	height: 485px;
+	padding-left: 20px;
+}
+.grid_3 img{
+	width: 120px;
+	height: 120px;
+	padding: 20px;
+}
+.grid_3 h3{
+	margin-top: 30px;
+	font-size: 25px;
+}
+.grid_3 h4{
+	 margin-top: 20px;
+}
+.post-info{
+	font-size: 20px;
+}
+.grid_5{
+	margin-top: 100px;
+	background: yellow;
+	width: 300px;
+	height: 355px;
+	padding-left: 20px;
+}
+.grid_5 h3{
+	margin-top: 30px;
+	font-size: 25px;
+}
+.grid_5 h4{
+	 margin-top: 20px;
+	 font-size: 20px;
+}
+.one h5{
+	margin-top: 30px;
+	font-size: 25px;
+	background: rgb(200,200,195);
+}
+.two h5{
+	margin-top: 30px;
+	font-size: 25px;
+	background: rgb(200,200,195);
+}
+.three h5{
+	margin-top: 30px;
+	font-size: 25px;
+	background: rgb(200,200,195);
+}
