@@ -103,3 +103,27 @@ h2{
 	font-size: 25px;
 	background: rgb(200,200,195);
 }
+
+.left, .right {
+  float: left;
+  width: 20%; /* The width is 20%, by default */
+}
+.clearfix{
+	background: rgb(200,140,100);
+	margin-top: 15 px;
+	display: block;
+}
+
+.last{
+	padding : 20px;
+	background: rgb(200,200,188);
+	margin-top: 1100px;
+	padding-right: 10px;
+
+}
+.list{
+	float : right;
+	padding-right: 15px;
+	font-style: bold;
+	margin-bottom: : 5px;
+}
